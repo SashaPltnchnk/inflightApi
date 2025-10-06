@@ -30,7 +30,6 @@
     { "id": "27", "name": "Crackers", "price": 2.0, "currency": "EUR", "amountAvailable": 12, "image": "https://raw.githubusercontent.com/SashaPltnchnk/inflightApi/main/images/snack.png", "category": "snacks" },
     { "id": "28", "name": "Cheese Snack", "price": 3.0, "currency": "EUR", "amountAvailable": 10, "image": "https://raw.githubusercontent.com/SashaPltnchnk/inflightApi/main/images/snack.png", "category": "snacks" },
     { "id": "29", "name": "Veggie Sticks", "price": 3.0, "currency": "EUR", "amountAvailable": 9, "image": "https://raw.githubusercontent.com/SashaPltnchnk/inflightApi/main/images/snack.png", "category": "snacks" },
-    { "id": "30", "name": "Brownie", "price": 3.5, "currency": "EUR", "amountAvailable": 7, "image": "https://raw.githubusercontent.com/SashaPltnchnk/inflightApi/main/images/snack.png", "category": "snacks" }
   ]
 }
 
